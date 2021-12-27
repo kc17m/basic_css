@@ -1,0 +1,31 @@
+
+nav, a, span {
+    color: red
+}
+ 
+
+.first {
+    height: 400px;
+    width: 400px;
+}
+
+.second {
+    height: 600px;
+    width: 600px;
+}
+
+.first {
+    height: 800px;
+    width: 600px;
+}
+
+header {
+    background-color: darkgray;
+}
+
+body {
+    background: lightgray;
+}
+
+
+    
