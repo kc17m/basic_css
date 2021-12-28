@@ -23,6 +23,10 @@ header {
     background-color: darkgray;
 }
 
+ul {
+    list-style: none;
+}
+
 body {
     background: lightgray;
 }
